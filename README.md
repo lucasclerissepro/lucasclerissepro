@@ -10,6 +10,17 @@ I am a software developer with experience in system and web programming. I use m
       - Distributed systems
       - Systems design
 
+### 👨‍💻 Tech stacks:
+
+Backend/System programming:
+- Haskell
+- Rust
+- Golang
+
+Frontend:
+- Elm
+- React
+
 ### 🗣 My activity:
 
 * ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
