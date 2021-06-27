@@ -12,16 +12,16 @@ I am a software developer with experience in system and web programming. I use m
 
 ### 👨‍💻 Tech stacks:
 
-Backend/System programming:
+**Backend/System programming:**
 - Haskell
 - Rust
 - Golang
 
-Frontend:
+**Frontend:**
 - Elm
 - React
 
-Scripting:
+**Scripting:**
 - Bash
 - Lua
 - Python
