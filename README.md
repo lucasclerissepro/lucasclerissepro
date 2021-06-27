@@ -21,6 +21,11 @@ Frontend:
 - Elm
 - React
 
+Scripting:
+- Bash
+- Lua
+- Python
+
 ### 🗣 My activity:
 
 * ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
