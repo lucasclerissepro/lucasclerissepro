@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="0_ephWQeRlw7fMZEvU.gif"/>
+</p>
+
+
 # λello, I'm Lucas
 
 I am a software developer with experience in system and web programming. I use mostly functional languages except when they are not adapted to solve the problem.
