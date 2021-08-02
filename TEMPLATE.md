@@ -14,8 +14,3 @@ I am a software developer with experience in system and web programming. I use m
 
 <!--GITHUB_ACTIVITY:{"rows": 5}-->
 ---
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
