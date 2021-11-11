@@ -13,14 +13,14 @@ I am a Site reliability Engineer with experience in system and web programming. 
 
 ### 🗣 My activity:
 
-* ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
-* ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
-* ⬆️ Pushed 2 commits to CoverGo/terraform-wrapper
-* 🍴 Forked lucasclerissepro/nuxt.js from nuxt/nuxt.js
-* ⬆️ Pushed 1 commit to CoverGo/terraform-wrapper
+* ⬆️ Pushed 3 commits to open-kubernetes-platform/okp
+* 🎉 Merged PR #1 in open-kubernetes-platform/okp
+* ⬆️ Pushed 1 commit to open-kubernetes-platform/okp
+* 💪 Opened PR #1 in open-kubernetes-platform/okp
+* ⬆️ Pushed 1 commit to open-kubernetes-platform/okp
 ---
 
 <p align="center">
   Last refresh: 
-  <b>2021-11-10T01:59:35Z</b>
+  <b>2021-11-11T01:59:40Z</b>
 </p>
