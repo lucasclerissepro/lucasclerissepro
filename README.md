@@ -16,11 +16,11 @@ I am a Site reliability Engineer with experience in system and web programming. 
 * ⬆️ Pushed 1 commit to lucasclerissepro/dotfiles
 * ⬆️ Pushed 1 commit to lucasclerissepro/dotfiles
 * ⬆️ Pushed 1 commit to lucasclerissepro/dotfiles
-* ⬆️ Pushed 1 commit to open-kubernetes-platform/okp
-* 🎉 Merged PR #6 in open-kubernetes-platform/okp
+* ⬆️ Pushed 1 commit to lucasclerissepro/dotfiles
+* ⬆️ Pushed 1 commit to lucasclerissepro/dotfiles
 ---
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-01T02:04:56Z</b>
+  <b>2021-12-02T02:00:42Z</b>
 </p>
