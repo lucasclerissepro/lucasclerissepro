@@ -13,14 +13,14 @@ I am a Site reliability Engineer with experience in system and web programming. 
 
 ### 🗣 My activity:
 
-* ❗️ Opened issue #10 in open-kubernetes-platform/okp
-* ❗️ Opened issue #9 in open-kubernetes-platform/okp
-* ❗️ Opened issue #8 in open-kubernetes-platform/okp
-* ❗️ Opened issue #7 in open-kubernetes-platform/okp
-* ⬆️ Pushed 1 commit to lucasclerissepro/dotfiles
+* ⬆️ Pushed 1 commit to open-kubernetes-platform/okp
+* 🎉 Merged PR #27 in open-kubernetes-platform/okp
+* ⬆️ Pushed 1 commit to open-kubernetes-platform/okp
+* 🎉 Merged PR #36 in open-kubernetes-platform/okp
+* 🎉 Merged PR #28 in open-kubernetes-platform/okp
 ---
 
 <p align="center">
   Last refresh: 
-  <b>2021-12-05T02:06:55Z</b>
+  <b>2021-12-06T02:03:07Z</b>
 </p>
