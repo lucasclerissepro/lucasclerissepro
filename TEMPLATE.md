@@ -1,14 +1,14 @@
 # λello, I'm Lucas
 
-<div>
-  I am a software developer with experience in system and web programming. I use mostly functional languages except when they are not adapted to solve the problem.
-</div>
+I am a Site reliability Engineer with experience in system and web programming. I love to work on distributed systems and SRE related projects.
 
 - 🔭 I’m currently working on [Open Kubernetes Platform](https://github.com/open-kubernetes-platform/okp)
 - 🌱 I’m currently learning **Svelte**
-- 👯 I’m looking to collaborate on distributed systems / sre projects
+- 👯 I’m looking to collaborate distributed systems / SRE projects
+
 - 💬 Ask me about:
       - Functional programming
+      - Site Reliability Engineering
       - Distributed systems
       - Site reliability engineering
       - Systems design
