@@ -13,7 +13,7 @@ I am a Site reliability Engineer with experience in system and web programming. 
       - Site reliability engineering
       - Systems design
 
-<a href="https://app.daily.dev/lucasclerissepr"><img src="https://api.daily.dev/devcards/325402480c4f457f961748160e6bf6eb.png?r=29p" width="400" alt="Lucas Clerisse's Dev Card"/></a>
+<a href="https://app.daily.dev/lucasclerissepr"><img src="https://api.daily.dev/devcards/325402480c4f457f961748160e6bf6eb.png?r=29p" width="300" alt="Lucas Clerisse's Dev Card"/></a>
 
 ### 🗣 My activity:
 
