@@ -17,9 +17,9 @@ I am a Site reliability Engineer with experience in system and web programming. 
 
 ### 🗣 My activity:
 
-* 🗣 Commented on #6296 in keptn/keptn
-* ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
-* ⬆️ Pushed 5 commits to lucasclerissepro/lucasclerissepro
-* 🎉 Merged PR #3 in lucasclerissepro/lucasclerissepro
-* ⬆️ Pushed 70 commits to lucasclerissepro/lucasclerissepro
+* ❗️ Opened issue #1 in lucasclerissepro/northstar
+* ⬆️ Pushed 1 commit to lucasclerissepro/northstar
+* ⬆️ Pushed 1 commit to lucasclerissepro/northstar
+* ⬆️ Pushed 1 commit to lucasclerissepro/northstar
+* ⬆️ Pushed 1 commit to lucasclerissepro/northstar
 ---
