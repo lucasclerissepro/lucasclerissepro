@@ -18,8 +18,8 @@ I am a Site reliability Engineer with experience in system and web programming. 
 ### 🗣 My activity:
 
 * ⬆️ Pushed 1 commit to lucasclerissepro/northstar
+* ⬆️ Pushed 1 commit to lucasclerissepro/northstar
 * ⬆️ Pushed 1 commit to north-systems/landing
 * ⬆️ Pushed 1 commit to north-systems/landing
 * ❗️ Opened issue #1 in lucasclerissepro/northstar
-* ⬆️ Pushed 1 commit to lucasclerissepro/northstar
 ---
