@@ -17,9 +17,9 @@ I am a Site reliability Engineer with experience in system and web programming. 
 
 ### 🗣 My activity:
 
+* 🍴 Forked lucasclerissepro/next.js from vercel/next.js
 * 🍴 Forked lucasclerissepro/cli from cli/cli
 * ⬆️ Pushed 1 commit to lucasclerissepro/filemeta
 * ⬆️ Pushed 1 commit to lucasclerissepro/filemeta
 * ❗️ Opened issue #2 in lucasclerissepro/filemeta
-* ❗️ Opened issue #1 in lucasclerissepro/filemeta
 ---
