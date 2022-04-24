@@ -17,9 +17,9 @@ I am a Site reliability Engineer with experience in system and web programming. 
 
 ### 🗣 My activity:
 
+* 🍴 Forked lucasclerissepro/nextui from nextui-org/nextui
 * 🍴 Forked lucasclerissepro/httpie from httpie/httpie
 * 🍴 Forked lucasclerissepro/well_app from chroline/well_app
 * 🍴 Forked lucasclerissepro/next.js from vercel/next.js
 * 🍴 Forked lucasclerissepro/cli from cli/cli
-* ⬆️ Pushed 1 commit to lucasclerissepro/filemeta
 ---
