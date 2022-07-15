@@ -17,9 +17,9 @@ I am a Site reliability Engineer with experience in system and web programming. 
 
 ### 🗣 My activity:
 
+* ⬆️ Pushed 1 commit to lucasclerissepro/.dotfiles
+* ⬆️ Pushed 1 commit to lucasclerissepro/.dotfiles
 * ⬆️ Pushed 1 commit to lucasclerissepro/dummy
 * ⬆️ Pushed 1 commit to lucasclerissepro/dummy
 * 🍴 Forked lucasclerissepro/istio from istio/istio
-* ⬆️ Pushed 2 commits to lucasclerissepro/equilibre
-* 🎉 Merged PR #4 in lucasclerissepro/equilibre
 ---
