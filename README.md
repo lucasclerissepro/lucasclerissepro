@@ -19,7 +19,7 @@ I am a Site reliability Engineer with experience in system and web programming. 
 
 * ⬆️ Pushed 1 commit to lucasclerissepro/.dotfiles
 * ⬆️ Pushed 1 commit to lucasclerissepro/.dotfiles
-* ⬆️ Pushed 1 commit to lucasclerissepro/dummy
-* ⬆️ Pushed 1 commit to lucasclerissepro/dummy
-* 🍴 Forked lucasclerissepro/istio from istio/istio
+* ⬆️ Pushed 1 commit to lucasclerissepro/.dotfiles
+* ⬆️ Pushed 1 commit to lucasclerissepro/.dotfiles
+* ⬆️ Pushed 1 commit to lucasclerissepro/.dotfiles
 ---
