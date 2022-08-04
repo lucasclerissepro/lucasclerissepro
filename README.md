@@ -18,8 +18,8 @@ I am a Site reliability Engineer with experience in system and web programming. 
 ### 🗣 My activity:
 
 * ⬆️ Pushed 1 commit to lucasclerissepro/.dotfiles
+* ⬆️ Pushed 1 commit to lucasclerissepro/.dotfiles
 * ⬆️ Pushed 1 commit to lucasclerissepro/harpoon
 * ⬆️ Pushed 1 commit to lucasclerissepro/harpoon
 * ⬆️ Pushed 1 commit to lucasclerissepro/harpoon
-* 🗣 Commented on #157 in ThePrimeagen/harpoon
 ---
