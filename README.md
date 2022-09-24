@@ -6,17 +6,16 @@ I am a Site reliability Engineer with experience in system and web programming. 
 - 👯 I’m looking to collaborate distributed systems / SRE projects
 
 - 💬 Ask me about:
-      - Functional programming
-      - Site Reliability Engineering
-      - Distributed systems
-      - Site reliability engineering
-      - Systems design
+   - Systems design
+   - Systems equilibrium
+   - Distributed systems
+   - Observability
 
 ### 🗣 My activity:
 
 * ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
+* ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
+* ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
 * ⬆️ Pushed 1 commit to lucasclerissepro/harpoon
 * ⬆️ Pushed 1 commit to lucasclerissepro/harpoon
-* ⬆️ Pushed 1 commit to lucasclerissepro/harpoon
-* ⬆️ Pushed 6 commits to lucasclerissepro/harpoon
 ---
