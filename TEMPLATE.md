@@ -6,11 +6,11 @@ I am a Site reliability Engineer with experience in system and web programming. 
 - 👯 I’m looking to collaborate distributed systems / SRE projects
 
 - 💬 Ask me about:
-      - Functional programming
-      - Site Reliability Engineering
-      - Distributed systems
-      - Site reliability engineering
-      - Systems design
+   - Functional programming
+   - Site Reliability Engineering
+   - Distributed systems
+   - Site reliability engineering
+   - Systems design
 
 ### 🗣 My activity:
 
