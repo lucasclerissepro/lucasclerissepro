@@ -13,9 +13,9 @@ I am a Site reliability Engineer with experience in system and web programming. 
 
 ### 🗣 My activity:
 
-* 🍴 Forked lucasclerissepro/neogit from TimUntersberger/neogit
-* ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
-* ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
-* ⬆️ Pushed 1 commit to lucasclerissepro/lucasclerissepro
-* ⬆️ Pushed 1 commit to lucasclerissepro/harpoon
+* 📦 Released "v0.0.0" in lucasclerissepro/protoc-gen-temporal
+* ⬆️ Pushed 1 commit to lucasclerissepro/protoc-gen-temporal
+* ⬆️ Pushed 1 commit to lucasclerissepro/protoc-gen-temporal
+* ⬆️ Pushed 2 commits to lucasclerissepro/protoc-gen-temporal
+* ⬆️ Pushed 1 commit to lucasclerissepro/protoc-gen-temporal
 ---
