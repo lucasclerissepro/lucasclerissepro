@@ -16,6 +16,6 @@ I am a Site reliability Engineer with experience in system and web programming. 
 * ⬆️ Pushed 1 commit to lucasclerissepro/protoc-gen-temporal
 * ⬆️ Pushed 1 commit to lucasclerissepro/protoc-gen-temporal
 * ⬆️ Pushed 1 commit to lucasclerissepro/protoc-gen-temporal
-* ⬆️ Pushed 3 commits to lucasclerissepro/protoc-gen-temporal
-* 🎉 Merged PR #1 in lucasclerissepro/protoc-gen-temporal
+* ⬆️ Pushed 1 commit to lucasclerissepro/protoc-gen-temporal
+* ⬆️ Pushed 1 commit to lucasclerissepro/protoc-gen-temporal
 ---
