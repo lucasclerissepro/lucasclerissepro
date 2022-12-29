@@ -74,8 +74,7 @@ export default function About() {
               </p>
 
               <p>
-                Most of my time, I work on side projects and open source them whenever I can. Most of my work focuses around distributed systems and serverless technologies.
-                I'm convinced that serverless and edge technologies will be the future of computing and I invest a lot in it.
+                Most of my time, I work on side projects and open source them whenever I can. Most of my work focuses around distributed systems and serverless technologies. Convinced that serverless and edge technologies will be the future of computing and I invest a lot in it.
               </p>
               <p>
                 Today, I work at Covergo, where we’re working on
