@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Site Reliability Engineer
 -------------------------
 
-I'm Lucas, Site Reliability Engineer with a strong interesting for distributed systems. I'm heavily interested in modern computing paradigm like serverless and edge.
+I'm Lucas, Site Reliability Engineer with focus on distributed systems. I'm heavily interested in modern computing paradigm like serverless and edge.
 
 * 🌍  I'm based in Hong Kong
 * 🖥️  See my portfolio at [lucasclerisse.dev](http://lucasclerisse.dev)
