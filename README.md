@@ -6,12 +6,12 @@ Site Reliability Engineer
 
 I'm Lucas, Site Reliability Engineer with focus on distributed systems. I'm heavily interested in modern computing paradigm like serverless and edge.
 
-* 🌍  I'm based in Hong Kong
-* 🖥️  See my portfolio at [lucasclerisse.dev](http://lucasclerisse.dev)
-* ✉️  You can contact me at [hello@lucasclerisse.dev](mailto:hello@lucasclerisse.dev)
-* 🚀  I'm currently working on [Tallyn](http://tallyn.dev)
-* 🧠  I'm learning about CRDTs
-* 🤝  I'm open to collaborating on Serverless and Distributed systems
+* 🌍  I'm based in Hong Kong
+* 🖥️  See my portfolio at [lucasclerisse.dev](http://lucasclerisse.dev)
+* ✉️  You can contact me at [hello@lucasclerisse.dev](mailto:hello@lucasclerisse.dev)
+* 🚀  I'm currently working on [Tallyn](http://tallyn.dev)
+* 🧠  I'm learning about CRDTs
+* 🤝  I'm open to collaborating on Serverless and Distributed systems
 
 ### Skills
 
