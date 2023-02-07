@@ -1,17 +1,25 @@
 import { ArticleLayout } from '@/components/ArticleLayout'
+import { Mermaid } from 'mdx-mermaid/Mermaid';
 import Image from 'next/image'
 import designSystem from './planetaria-design-system.png'
 
 export const meta = {
   author: 'Lucas Clerisse',
   date: '2022-12-27',
-  title: 'Building an edge cloud from scratch',
-  description: 'Most cloud providers try to expand their service in multiple regions with a clear segregation between regions. With Tallyn, my objective is to build a completely regionless cloud that deploys users code all around the world, at edge.',
+  title: 'Building a high-frequency serverless orchestrator',
+  description: 'Serverless computing is a really exciting paradigm, especially with the recent rise of edge service. Everyone is starting to see the benefits of such a solution. This serie of blog post covers my journey building a serverless platform that is "regionless" and deploy any application at edge.',
 }
 
 export default (props) => <ArticleLayout meta={meta} {...props} />
 
-Most cloud providers try to expand their service in multiple regions with a clear segregation between regions. With Tallyn, my objective is to build a completely regionless cloud that deploys users code all around the world, at edge.
+A container orchestrator is a tool that provides the capability of deploying, managing, and scaling workloads of containers. Popular container orchestrators include kubernetes and hashicorp nomad. They help with scheduling, resource allocation, and task automation to keep clusters running smoothly. Using kubernetes or hashicorp can significantly reduce development time when compared to traditional infrastructure management solutions. In today's fast-paced digital age, having an intuitive container orchestrator not only enhances efficiency but also helps teams build more reliable products faster.
 
-<Image src={designSystem} alt="" />
+With Tallyn, i've started a journey to build the most scalable opinionated orchestrator focused on serverless workloads. 
 
+## What is a serverless orchestrator?
+
+A serverless orchestrator is an incredibly powerful tool for managing, scaling and warming up serverless workloads. It boasts extremely low-latency times that make sure serverless functions are triggered and scheduled as soon as possible. As such, it's especially beneficial when managing high-throughput workflows that demand the lowest possible latency. Additionally, its horizontal scalability ensures that the system can scale to handle enormous data processing requirements on demand. Serverless orchestrators are a valuable asset for any organization looking to optimize its performance in an age of data-oriented tasks.
+
+## Why do we need a serveless orchestrator?
+
+Serverless technology is becoming increasingly popular for web app deployments, but existing solutions for scheduling and orchestrating serverless workloads are designed predominantly with containers in mind. Such solutions are not well-equipped to handle the drastically different lifecycle of a serverless workload, as compared to that of containers or virtual machines. While kubernetes is a powerful tool, it isn't optimal when it comes to scaling serverless architecture due to it having controllers that are hard to scale without extra software engineering. A specialized serverless orchestrator that takes into account this unique life cycle can be the missing piece of puzzle needed to ensure successful deployment and operations of web applications using serverless technologies.
