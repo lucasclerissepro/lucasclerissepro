@@ -1,0 +1,21 @@
+import { ArticleLayout } from '@/components/ArticleLayout'
+import { Mermaid } from 'mdx-mermaid/Mermaid';
+import Image from 'next/image';
+import banner from './banner.svg';
+
+export const meta = {
+  author: 'Lucas Clerisse',
+  date: '2022-12-27',
+  published: false,
+  title: 'Part 2 - Building a distributed personal cloud',
+description: 'Peer-to-peer networking in Datum the code and most important feature. This is an in-depth explanation of the implementation.',
+}
+
+export default (props) => <ArticleLayout meta={meta} {...props} />
+
+<Image src={banner} alt="Planetaria design system" width={1000} height={500} />
+
+In this article, I'll cover Datum's peer-to-peer networking implementation in depth, i'll make sure to include as much code snippets. 
+
+> All animations and graphics in this blog post has been entirely designed by myself and I own all rights. If you want to use them, feel free to ask.
+

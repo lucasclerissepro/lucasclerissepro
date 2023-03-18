@@ -1,0 +1,100 @@
+import { ArticleLayout } from '@/components/ArticleLayout'
+import { Mermaid } from 'mdx-mermaid/Mermaid';
+import Image from 'next/image';
+import banner from './banner.svg';
+
+export const meta = {
+  author: 'Lucas Clerisse',
+  date: '2022-12-27',
+  published: true,
+  title: 'Part 1 - Building a distributed personal cloud',
+  description: 'Datum is a novel approach to computing that allows you to remain fully in control of your data while being able to collaborate with others.'
+}
+
+export default (props) => <ArticleLayout meta={meta} {...props} />
+
+<Image src={banner} alt="Planetaria design system" width={1000} height={500} />
+
+In this article, I'll be sharing my experience building [Datum](https://datum.dev) a distributed personal cloud. I'll be focusing on the design choices I made and the challenges I faced along the way. I'll also be sharing some of the lessons I learned and the tools I used.  
+
+This series will be splitted into numerous differents parts, this is the first part of a long serie.
+
+## What is a personal cloud?
+
+Wikipedia definition of a personal cloud:
+
+> A personal cloud is a collection of digital content and services which are accessible from any device. The personal cloud is not a tangible entity. It is a place which gives users the ability to store, synchronize, stream and share content on a relative core, moving from one platform, screen and location to another. Created on connected services and applications, it reflects and sets consumers’ expectations for how next-generation computing services will work.[1][citation needed]
+> The four primary types of personal cloud in use today are: Online cloud, NAS device cloud, server device cloud, and home-made clouds.
+
+Datum's personal cloud definition is a bit different:
+
+> A personal cloud is a system that allows you to use interactive and collaborative software
+> with other internet peers while remaining in full control of your data. With a personal cloud
+> you decide which data you expose to other peers in the cloud.
+
+
+## Why you've never heard of this before? 
+
+I'm not the first one to build a personal cloud, there are already a few projects out there. There's a few of them that have gained traction
+and popularity. [Urbit](https://urbit.org) is probably the most popular one, it popularised this paradigm. 
+
+The main reason you've never heard of such projects is complexity, most of them reinvent complete terminology and vocabulary making the entry barrier very though.
+Urbit terminology sound like alien language for anyone not familiar with the internals of the project, the 0.1% of readers not getting scared of their docs might contribute to the project.
+
+A fundamental misunderstanding all those projects have, is trying to reinvent the wheel completely. We have amazing standards, I'm thinking about TCP, UDP, QUIC, DNS, etc... Why not embracing 
+all this existing knowledge everyone already has, instead of coming up with something completely different.
+
+
+## What makes Datum different?
+
+Have you heard of any of those:
+- Docker
+- WebAssembly
+- Firecracker
+- Fly.io
+- AWS Lambda
+- GCP Cloudrun
+
+There's a high probability you said yes. That's because we run our software on top of those runtimes on a daily basis. All of those are runtimes that can run our software, the different between them
+is how they run and in which context. Let me give you an example, **Docker** and **Cloudrun**.
+
+> Cloudrun is the serverless hosting from Google Cloud, it takes a docker image and scale it from zero to infinity to reach your needed scale.
+
+When you run `docker run myimage` you know that your softare will run, the same way, when you run `gcloud run deploy myservice`, you know your docker image will run in Google the same way, with the same runtime.  
+
+Even tho it runs the same piece of software in the same runtime, you usually know that the **networking**, **filesystem** and other OS primitives might be differently configured from the local `docker run`. It's configured differently but your software can still
+run correctly and make use of those primitives, there's no difference between local and cloud. As an example, you can still do an **HTTP call**, **open a socket**, **open a file**, the context is just different.
+
+
+That's exactly how Datum works, it provides a runtime that executes your software within a context differently configured. Instead of using Docker, it uses WebAssembly but the analogy with Docker/Cloudrun is exactly the same.
+The most popular WebAssembly runtime is [Wasmtime](https://github.com/bytecodealliance/wasmtime), between running your WebAssembly code locally with Wasmtime and Datum there's no difference.
+
+The magic happen when your WebAssembly is executed in Datum Runtime, if you try to open a socket, Datum will automatically handle peer-to-peer resolution for you and connect you to a peer in the network.
+That's the huge difference, in your code you will still do a `http.Post(addr, port, body)` but the underlying runtime resolves those differently.
+
+
+I'm not gonna lie, that's not all magic, you will still need to change to programming model, but you do it with familiar terms and concepts.
+
+## A different programming model?
+
+You might be wondering why there's a need to change the current programming model. The reason is quite simple, with Datum you operate within a distributed peer-to-peer network.
+The runtime allows you to use existing primitives like sockets or opening files, but you need to communicate with other peers on the network using peer-to-peer so the model has to be different.
+
+Might sound scary but we provide libraries that operates on top of TCP that will make building applications on Datum much easier.
+
+
+## How is it built?
+
+Datum is a runtime, a pretty low-level runtime actually. It's built in [Zig](https://ziglang.org) to allow use to use existing C libraries and work with low-level system primitives.
+
+In it's simplest form, Datum is a runtime to which you can feed WebAssembly binaries. The runtime **can't crash** and all executions are fully **sandboxed**.
+
+
+Today's blog is an introduction to the project. We'll not dive further in the internal.
+
+
+## What next?
+
+I'm still building Datum as I write this blog post. Good progress has been made. The next part will cover Datum's p2p network implementation.
+
+{/* See the next part [here](../articles/building-a-distributed-personal-cloud-2). */}
